@@ -24,7 +24,7 @@ var main = new UI.Card({
   style: 'large'
 });
 
-var url='http://www.jorudan.co.jp/norikae/cgi/nori.cgi?eki1=%E5%8B%9D%E3%81%A9%E3%81%8D&eki2=%E6%9D%B1%E5%A4%A7%E5%B3%B6&Cway=0&Czu=2&C7=1&C2=0&C3=0&C1=0&C4=0&C6=2&S.x=78&S.y=14&S=%E6%A4%9C%E7%B4%A2&Cmap1=&rf=nr&pg=0&eok1=R-&eok2=R-&eok3=R-&Csg=1&type=t&Cid=0&Cfp=1';
+var url='http://www.jorudan.co.jp/norikae/cgi/nori.cgi?eki1=%E6%9C%88%E5%B3%B6&eki2=%E6%9D%B1%E5%A4%A7%E5%B3%B6&eki3=%E6%A3%AE%E4%B8%8B%EF%BC%88%E6%9D%B1%E4%BA%AC%EF%BC%89&via_on=1&Cway=0&Czu=2&C7=1&C2=0&C3=0&C1=0&C4=0&C6=2&S.x=78&S.y=14&S=%E6%A4%9C%E7%B4%A2&Cmap1=&rf=nr&pg=0&eok1=R-&eok2=R-&eok3=R-&Csg=1&type=t&Cid=0&Cfp=1';
 
 var parseResult = function(url){
   var tmpResult = 'updating...';
