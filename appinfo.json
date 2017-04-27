@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "greenpurslane+pbbl@gmail.com",
-    "longName": "transfer_pebblejs",
+    "longName": "transfer_pebblejs_Kachidoki",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -30,23 +30,23 @@
             },
             {
                 "file": "images/menuIcon.png",
-                "menuIcon": true,
                 "name": "IMAGES_MENUICON_PNG",
                 "type": "bitmap"
             },
             {
                 "file": "images/AppIcon.png",
+                "menuIcon": true,
                 "name": "IMAGES_APPICON_PNG",
                 "type": "bitmap"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Transfer Info",
+    "shortName": "TransferInfo Kachidoki",
     "targetPlatforms": [
         "chalk"
     ],
-    "uuid": "7f1853c8-37b4-4490-abb6-b8e9890a7846",
+    "uuid": "294491c6-bf22-4972-9ea5-9f52d97f8694",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
