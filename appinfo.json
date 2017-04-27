@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "greenpurslane+pbbl@gmail.com",
-    "longName": "transfer_pebblejs_Kachidoki",
+    "longName": "transfer_pebblejs_Tsukishima",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -42,11 +42,11 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "TransferInfo Kachidoki",
+    "shortName": "TransferInfo Tsukishima",
     "targetPlatforms": [
         "chalk"
     ],
-    "uuid": "294491c6-bf22-4972-9ea5-9f52d97f8694",
+    "uuid": "ffeaf924-c45a-4fe4-8c2b-9f2d8cc7713d",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
